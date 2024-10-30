@@ -1,6 +1,8 @@
 # Libft
 
-Libft is a custom C library created to re-implement a set of standard C library functions. This project was completed as part of the École 42 curriculum, aimed at enhancing proficiency in C programming, memory management, and fundamental algorithms. The library is modular, efficient, and serves as a foundation for future projects.
+## Description
+
+`Libft` is a custom C library created to re-implement a set of standard C library functions. This project was completed as part of the École 42 curriculum, aimed at enhancing proficiency in C programming, memory management, and fundamental algorithms. The library is modular, efficient, and serves as a foundation for future projects.
 
 ---
 
@@ -99,4 +101,4 @@ Compile your program with the static library:
 
 ## Author
 
-Project developed by ma1iik as part of the École 42 curriculum.
+Project developed by [Malik](https://github.com/ma1iik) as part of the École 42 curriculum.
